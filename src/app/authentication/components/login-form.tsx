@@ -47,7 +47,7 @@ const LoginForm = () => {
       <Form {...form}>
         <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-4">
           <CardHeader>
-            <CardTitle>Criar conta</CardTitle>
+            <CardTitle>Login</CardTitle>
             <CardDescription>
               Faça login para continuar
             </CardDescription>
